@@ -1,2 +1,2 @@
-# Intership-Projects
-Thiranex internship projects 
+# Thiranex- Intership-Projects
+Student management system
